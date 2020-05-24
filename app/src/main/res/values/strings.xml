@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Keep Notes </string>
+    <string name="all_notes_deleted">Все заметки удалены</string>
+    <string name="delete">Удалить</string>
+    <string name="delete_all">Удалить все</string>
+    <string name="input_your_text">Введите ваш текст…</string>
+    <string name="no">Нет</string>
+    <string name="note_deleted">Заметка удалена</string>
+    <string name="note_deletion_title">Удаление заметки</string>
+    <string name="note_deletion_message">Вы действительно хотите удалить заметку?</string>
+    <string name="note_info">Информация</string>
+    <string name="notes_list_empty">Заметки не найдены</string>
+    <string name="ok">OK</string>
+    <string name="save">Сохранить</string>
+    <string name="search">Поиск</string>
+    <string name="sort_by">Сортировать</string>
+    <string name="sort_by_title">Заголовок</string>
+    <string name="sort_by_date">Дата</string>
+    <string name="title">Заголовок</string>
+    <string name="yes">Да</string>
+    <string name="info_dev">Инфор о разработчике</string>
+
+    <string-array name="main_note_context">
+        <item>Открыть</item>
+        <item>@string/note_info</item>
+        <item>@string/delete</item>
+    </string-array>
+</resources>
